@@ -1,6 +1,6 @@
 def main():
 
-  print("Goodbye, world!")
+  print("Goodbye, venus penis!")
 
 if __name__ == '__main__':
   main()
